@@ -1,0 +1,39 @@
+body{
+  background-color: #f4d160;
+  font-family: 'Merienda', cursive;
+}
+h1{
+  text-align: center;
+  margin: 20px auto;
+}
+.im{
+  width: 300px;
+  height: 300px;
+  margin-left: 39%;
+  margin-right: 39%;
+}
+.b1{
+  margin-left: 42%;
+}
+.play{
+  margin-left: 10px;
+  margin-right: 10px;
+}
+button{
+  font-family: 'Merienda', cursive;
+  margin-top: 20px;
+}
+
+.s1{
+  position: absolute;
+  left:20px;
+  top: 225px;
+}
+.s3{
+  position: absolute;
+  top: 30px;
+  right: 30px;
+}
+@media (max-width:1200px){
+
+}
